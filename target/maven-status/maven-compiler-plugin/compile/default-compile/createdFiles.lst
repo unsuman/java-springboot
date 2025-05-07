@@ -1,0 +1,12 @@
+com/assignment/college/entity/Author.class
+com/assignment/college/DemoApplication.class
+com/assignment/college/util/PackageUtil.class
+com/assignment/college/service/BookService.class
+com/assignment/college/repository/BookRepository.class
+com/assignment/college/repository/AuthorRepository.class
+com/assignment/college/controller/AuthorController.class
+com/assignment/college/config/DataInitializer.class
+com/assignment/college/service/AuthorService.class
+com/assignment/college/entity/Book.class
+com/assignment/college/controller/BookController.class
+com/assignment/college/PackageEnforcer.class
